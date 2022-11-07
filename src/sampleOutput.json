@@ -1,0 +1,51 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "records": [
+    {
+      "companyName": "6WunderKinder",
+      "dealName": "DealName",
+      "softwareName": "Scopevisio",
+      "type": "SaaS",
+      "status": "Archival Phase",
+      "integrationManager": "",
+      "accountingAdmin": "Karlsim"
+    },
+    {
+      "companyName": "Acompli",
+      "dealName": "DealName",
+      "softwareName": "Quickbooks",
+      "type": "Desktop",
+      "status": "Archival Phase",
+      "integrationManager": "",
+      "accountingAdmin": "Gina Hough"
+    },
+    {
+      "companyName": "Adallom",
+      "dealName": "DealName",
+      "softwareName": "Netsuite",
+      "type": "SaaS",
+      "status": "Archival Phase",
+      "integrationManager": "",
+      "accountingAdmin": "Becky Telander"
+    },
+    {
+      "companyName": "AppDepot",
+      "dealName": "DealName",
+      "softwareName": "Quickbooks",
+      "type": "Desktop",
+      "status": "Onboarded Phase",
+      "integrationManager": "",
+      "accountingAdmin": "Gina Hough"
+    },
+    {
+      "companyName": "Avere Systems- Inc",
+      "dealName": "DealName",
+      "softwareName": "Xero",
+      "type": "SaaS",
+      "status": "Onboarded Phase",
+      "integrationManager": "",
+      "accountingAdmin": "Steve Galore"
+    }
+  ]
+}
